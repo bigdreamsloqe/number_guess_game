@@ -5,4 +5,5 @@ the only thing i used AI in this small project was because i don't know the asci
 This was my first ever biggest written code and this thing was basically my idea about the implimentation of the code my adding levels to the code.
 And one more thing was i just wanted to do some projects and wanted to get experience about how these projects work and I'm interested in these type of things like learning about something that was fun.
 I know about the data structures through C and i have made this using c++.
+Mainly go to the releases and download the zip file and extract the files and run the exe file named cypher.exe;
 Hope you like this :)
